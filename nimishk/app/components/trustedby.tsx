@@ -42,7 +42,7 @@ export default function TrustedBy() {
         hoverSpeed={0}
         scaleOnHover
         fadeOut
-        fadeOutColor="#000000"
+        fadeOutColor="var(--background)"
         ariaLabel="Technology partners"
       />
         </div>
